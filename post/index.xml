@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Daniel Dewar Writing</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Daniel Dewar Writing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2017 02:12:05 +1000</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>a very easy death</title>
+      <link>http://example.org/post/a-very-easy-death/</link>
+      <pubDate>Fri, 26 May 2017 02:12:05 +1000</pubDate>
+      
+      <guid>http://example.org/post/a-very-easy-death/</guid>
+      <description>This is some filler text that is going to make it so much better for people to read. People will be amazed at how much this is awesome.</description>
+    </item>
+    
+  </channel>
+</rss>
