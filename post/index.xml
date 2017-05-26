@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Daniel Dewar Writing</title>
-    <link>http://example.org/post/</link>
+    <link>https://danielkdewar.github.io/post/</link>
     <description>Recent content in Posts on Daniel Dewar Writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 May 2017 02:12:05 +1000</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danielkdewar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>a very easy death</title>
-      <link>http://example.org/post/a-very-easy-death/</link>
+      <title>A Very Easy Death</title>
+      <link>https://danielkdewar.github.io/post/a-very-easy-death/</link>
       <pubDate>Fri, 26 May 2017 02:12:05 +1000</pubDate>
       
-      <guid>http://example.org/post/a-very-easy-death/</guid>
-      <description>This is some filler text that is going to make it so much better for people to read. People will be amazed at how much this is awesome.</description>
+      <guid>https://danielkdewar.github.io/post/a-very-easy-death/</guid>
+      <description>There is no such thing as a natural death: nothing that happens to a man is ever natural, since his presence calls the world into question. All men must die: but for every man his death is an accident and, even if he knows it and consents to it, an unjustifiable violation.
+ I&amp;rsquo;ve always thought about death. Not dying. Death. I have no desire to die although one day I will.</description>
     </item>
     
   </channel>
