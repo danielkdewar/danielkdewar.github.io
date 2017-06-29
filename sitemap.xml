@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://writing.daniel-dewar.com/post/finding-the-ideal-co-founder/</loc>
+    <lastmod>2017-06-29T09:48:52+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://writing.daniel-dewar.com/post/founder-recommended-reading-list/</loc>
     <lastmod>2017-06-03T09:48:52+10:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   
   <url>
     <loc>http://writing.daniel-dewar.com/</loc>
-    <lastmod>2017-06-03T09:48:52+10:00</lastmod>
+    <lastmod>2017-06-29T09:48:52+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://writing.daniel-dewar.com/post/</loc>
-    <lastmod>2017-06-03T09:48:52+10:00</lastmod>
+    <lastmod>2017-06-29T09:48:52+10:00</lastmod>
     <priority>0</priority>
   </url>
   
