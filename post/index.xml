@@ -6,21 +6,20 @@
     <description>Recent content in Posts on Daniel Dewar Writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Aug 2017 09:48:52 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 09:48:52 +1000</lastBuildDate>
     
 	<atom:link href="http://writing.daniel-dewar.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The perfect description of blockchain technology — why it&#39;s becoming more simple</title>
-      <link>http://writing.daniel-dewar.com/post/a-perfect-description-of-blockchain-technology/</link>
-      <pubDate>Sat, 05 Aug 2017 09:48:52 +1000</pubDate>
+      <title>Designing crypto tokens in light of the SEC announcement</title>
+      <link>http://writing.daniel-dewar.com/post/designing-crypto-tokens-in-light-of-sec-announcement/</link>
+      <pubDate>Thu, 27 Jul 2017 09:48:52 +1000</pubDate>
       
-      <guid>http://writing.daniel-dewar.com/post/a-perfect-description-of-blockchain-technology/</guid>
-      <description>“Blockchain is a technology that allows natively digital transfer of value.”
- That line was buried in a Medium post by Karl Kreder, cofounder of Gridplus.io.
-The more I read it the more I think it’s the best concise description of blockchain technology. The branding problem blockchain has always had is how to describe it in 25 words or less.
-Not that being able to describe in such a limitation proves any value of what is being described, however it sure makes it easier to explain at networking events where you may need to offer a description over and over.</description>
+      <guid>http://writing.daniel-dewar.com/post/designing-crypto-tokens-in-light-of-sec-announcement/</guid>
+      <description>Earlier this week the Securities and Exchange Commission handed down its ruling on crypto tokens as potential securities.
+The investigation was prompted after the DAO “hack” that saw $55 million redirected by a rogue party in the DAO network.
+In the specific instance of the DAO, the SEC found that the tokens were offered as securities, and therefore fell under regular securities laws. Applied to other tokens or ICOs, this would mean that coin offerings would be subject to SEC regulation.</description>
     </item>
     
     <item>
