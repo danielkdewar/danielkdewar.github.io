@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://writing.daniel-dewar.com/post/a-perfect-description-of-blockchain-technology/</loc>
+    <lastmod>2017-08-05T09:48:52+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://writing.daniel-dewar.com/post/designing-crypto-tokens-in-light-of-sec-announcement/</loc>
     <lastmod>2017-07-27T09:48:52+10:00</lastmod>
   </url>
@@ -39,13 +44,13 @@
   
   <url>
     <loc>http://writing.daniel-dewar.com/</loc>
-    <lastmod>2017-07-27T09:48:52+10:00</lastmod>
+    <lastmod>2017-08-05T09:48:52+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://writing.daniel-dewar.com/post/</loc>
-    <lastmod>2017-07-27T09:48:52+10:00</lastmod>
+    <lastmod>2017-08-05T09:48:52+10:00</lastmod>
     <priority>0</priority>
   </url>
   
